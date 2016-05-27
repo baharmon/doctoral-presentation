@@ -345,7 +345,8 @@ ul.shadow {
   list-style-type: decimal; }
 
 .reveal ul {
-  list-style-type: disc; }
+  list-style-type: disc;
+  line-height: 2; }
 
 .reveal ul ul {
   list-style-type: square; }
